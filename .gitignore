@@ -1,6 +1,0 @@
-# Root .gitignore to ignore sensitive/virtualenv files everywhere
-.venv/
-.env
-.guardrails/
-__pycache__/
-*.pyc
