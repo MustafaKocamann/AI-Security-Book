@@ -1,0 +1,30 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System metadata files
+.DS_Store
+Thumbs.db
